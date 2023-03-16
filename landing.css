@@ -7,7 +7,7 @@
     font-family: avenirbold;
     font-style: normal;
     font-weight: bold;
-    src: url('/avenirbold.ttf');
+    src: url('./avenirbold.ttf');
     font-display: swap;
 }
 
@@ -15,7 +15,7 @@
     font-family: avenirmed;
     font-style: normal;
     font-weight: normal;
-    src: url('/avenirmed.ttf');
+    src: url('./avenirmed.ttf');
     font-display: swap;
 }
 
@@ -23,7 +23,7 @@
     font-family: aesmed;
     font-style: normal;
     font-weight: bold;
-    src: url('/aesmed.ttf');
+    src: url('./aesmed.ttf');
     font-display: swap;
 }
 
